@@ -9,3 +9,6 @@
 
 完整的操作视频已经上传：https://www.bilibili.com/video/BV12k4y1v7Eh/
 感谢大家的支持~
+
+
+I am a really bad programmer. This was made over the course of 32 hours on no sleep and only a pack of sour skittles to keep me awake. It's unoptomised, buggy, and liable to cause headache inducing problems because I didn't make a proper visualizer and also didn't comment pretty much anything. If you can stomach all that, then it's pretty easy to use
